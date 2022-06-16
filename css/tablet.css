@@ -1,0 +1,16 @@
+.main__container__table-monedas {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: center;
+    gap: 30%;
+
+}
+.main-second-cards {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.plans-container-slider {
+    justify-content: center;
+}
